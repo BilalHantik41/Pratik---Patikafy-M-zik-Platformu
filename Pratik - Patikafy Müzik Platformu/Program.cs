@@ -7,11 +7,11 @@ artist.Add(new Artist{ Name = "Sezen", SurName = "Aksu", Type = "Türk Halk Müz
 artist.Add(new Artist{ Name = "Funda", SurName = "Arrar", Type = "Pop", ReleaseYear = "1999", Sales = 3000000 });
 artist.Add(new Artist { Name = "Sertab", SurName = "Erener", Type = "Pop", ReleaseYear = "1994", Sales = 5000000 });
 artist.Add(new Artist{ Name = "Sıla", SurName = " ", Type = "Pop", ReleaseYear = "2009", Sales = 3000000 });
-artist.Add(new Artist{ Name = "Serdar", SurName = "Ortaç", Type = "Pop", ReleaseYear = "1994", Sales = 10000000 });
+artist.Add(new Artist{ Name = "Serdar", SurName = "Ortaç", Type = "Pop", ReleaseYear = "1994", Sales = 1000000 });
 artist.Add(new Artist{ Name = "Tarkan", SurName = " ", Type = "Pop", ReleaseYear = "1992", Sales = 40000000 });
 artist.Add(new Artist{ Name = "Hande", SurName = "Yener", Type = "Pop", ReleaseYear = "1999", Sales = 7000000 });
 artist.Add(new Artist{ Name = "Hadise", SurName = " ", Type = "Pop", ReleaseYear = "2005", Sales = 5000000 });
-artist.Add(new Artist{ Name = "Gülben", SurName = "Ergen", Type = "Pop / Türk Halk Müziği", ReleaseYear = "1997", Sales = 10000000 });
+artist.Add(new Artist{ Name = "Gülben", SurName = "Ergen", Type = "Pop / Türk Halk Müziği", ReleaseYear = "1997", Sales = 1000000 });
 artist.Add(new Artist{ Name = "Neşet", SurName = "Ertaş", Type = "Türk Halk Müziği / Türk Sanat Müziği", ReleaseYear = "1960", Sales = 2000000 });
 
 Console.WriteLine("Adı 'S' ile başlayan şarkıcılar");
