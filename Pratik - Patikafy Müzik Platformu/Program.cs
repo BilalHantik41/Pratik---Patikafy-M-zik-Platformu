@@ -3,7 +3,7 @@
 List<Artist> artist = new List<Artist>();
 
 artist.Add(new Artist{ Name = "Ajda", SurName = "Pekkan", Type = "Pop", ReleaseYear = "1968", Sales = 20000000 });
-artist.Add(new Artist{ Name = "Sezen", SurName = "Aksu", Type = "Türk Halk Müziği / Pop", ReleaseYear = "1971", Sales = 10000000 });
+artist.Add(new Artist{ Name = "Sezen", SurName = "Aksu", Type = "Türk Halk Müziği / Pop", ReleaseYear = "1971", Sales = 1000000 });
 artist.Add(new Artist{ Name = "Funda", SurName = "Arrar", Type = "Pop", ReleaseYear = "1999", Sales = 3000000 });
 artist.Add(new Artist { Name = "Sertab", SurName = "Erener", Type = "Pop", ReleaseYear = "1994", Sales = 5000000 });
 artist.Add(new Artist{ Name = "Sıla", SurName = " ", Type = "Pop", ReleaseYear = "2009", Sales = 3000000 });
